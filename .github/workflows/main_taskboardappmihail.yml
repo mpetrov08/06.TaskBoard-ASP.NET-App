@@ -55,4 +55,4 @@ jobs:
           app-name: 'taskboardappmihail'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_D47BDDD506C046AEAB2FA49F4F0619E0 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_764F13FCD88E415EABA6466D8EB1B07B }}
